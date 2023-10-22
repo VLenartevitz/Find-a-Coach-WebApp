@@ -1,8 +1,11 @@
 {
   "recommendations": [
-    "Vue.volar",
-    "Vue.vscode-typescript-vue-plugin",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "azemoh.one-monokai",
+    "monokai.theme-monokai-pro-vscode",
+    "zhuangtongfa.material-theme"
   ]
 }
